@@ -1,2 +1,2 @@
-# CS 61B Materials
-This is where I post my slides and other links for my section.
+# CS 186 Materials
+Slides and other resources for CS 186 - Databases Fall 2017.
