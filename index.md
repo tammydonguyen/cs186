@@ -1,5 +1,5 @@
 ---
-title: CS 186 - Section x
+title: CS 186
 layout: default
 ---
 
@@ -19,7 +19,10 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 - - -
 
 ## Week 1
-- [Intro/SQL slides][intro-slides]
+- [Intro, SQL slides][intro-slides]
+
+## Week 2
+- [More SQL, Joins slides][intro-slides]
 
 [my-website]: http://tmmydngyn.com
 [course-website]: http://www.cs186berkeley.net/
@@ -28,6 +31,7 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [anon-feedback]: https://goo.gl/forms/jdh0sAyOIID2i0DN2
 
 [intro-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1o4NIBvH9AWi73VcpALa2j7aTKaEhqS6ANtup2sHun9w/edit?usp=sharing
+[sql2-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1GN11fA-Ck7z8pEPcYYVgGfRSF8MRmJWenoYD435Ueok/edit?usp=sharing
 
 - - - 
 <small> © 2017 [Tammy Nguyen](http://tmmydngyn.com) · [Hagura Theme](https://github.com/sharu725/hagura) for [Jekyll](https://jekyllrb.com/) </small> <br/><br/>
