@@ -22,7 +22,7 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 - [Intro, SQL slides][intro-slides]
 
 ## Week 2
-- [More SQL, Joins slides][intro-slides]
+- [More SQL, Joins slides][sql2-slides]
 
 [my-website]: http://tmmydngyn.com
 [course-website]: http://www.cs186berkeley.net/
