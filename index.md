@@ -20,9 +20,26 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 
 ## Week 1
 - [Intro, SQL slides][intro-slides]
+- [Discussion worksheet][sql-wkst] ([Solutions][sql-wkst-sol])
+- [Homework 0][hw0]
 
 ## Week 2
 - [More SQL, Joins slides][sql2-slides]
+- [Discussion worksheet][joins-wkst] ([Solutions][joins-wkst-sol])
+- [Homework 1][hw1]
+
+
+## Week 3
+- [Files, Indexes][files-indexes-slides]
+- [Discussion worksheet][files-wkst] ([Solutions][files-wkst-sol])
+- [B+ trees visualization tool][b-trees-visual]
+- [Vitamin 1][vitamin1]
+- [Homework 2][hw2]
+
+## Week 4
+- [Indexes, Buffer management][indexes-buffer-slides]
+- [Vitamin 1][vitamin1]
+- [Homework 2][hw2]
 
 [my-website]: http://tmmydngyn.com
 [course-website]: http://www.cs186berkeley.net/
@@ -32,6 +49,23 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 
 [intro-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1o4NIBvH9AWi73VcpALa2j7aTKaEhqS6ANtup2sHun9w/edit?usp=sharing
 [sql2-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1GN11fA-Ck7z8pEPcYYVgGfRSF8MRmJWenoYD435Ueok/edit?usp=sharing
+[files-indexes-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1KC87CdUBjvktXDk9cvxPfI64zcT5PxhmiI3cCnYAauw/edit?usp=sharing
+[indexes-buffer-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1lCzrzkc3UZ14obXL4er70NsUw4jeb_FxiYuXfWp_VTE/edit?usp=sharing
+
+[sql-wkst]: https://drive.google.com/open?id=0By13EEuY1_ncdFlMQTJPX2haNTg
+[sql-wkst-sol]: https://drive.google.com/open?id=0By13EEuY1_ncampIWmlxZGQyWUE
+[joins-wkst]: https://drive.google.com/open?id=0ByvE6MB_iWpAcXFPcThuazNFM2s
+[joins-wkst-sol]: https://drive.google.com/open?id=0ByvE6MB_iWpAOV9sOWI0UzlwVEk
+[files-wkst]: https://drive.google.com/open?id=0ByvE6MB_iWpAQUowaWc0UXNoeGs
+[files-wkst-sol]: https://drive.google.com/open?id=0ByvE6MB_iWpAd3VDRmItY0dEcUk
+
+[vitamin1]: https://docs.google.com/forms/d/e/1FAIpQLScwr6Pw7l_fp3zYzZ9fsnkQiFyXlgDB7VlGpgyh12jQff_GLA/viewform
+
+[hw0]: https://d1b10bmlvqabco.cloudfront.net/attach/j61p9bqidklz/hhs20p6dvpz1ev/j6qvt3fpbowf/hw0.pdf
+[hw1]: https://github.com/berkeley-cs186/course/tree/master/hw1
+[hw2]: https://github.com/berkeley-cs186/course/tree/master/hw2
+
+[b-trees-visual]: https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
 
 - - - 
 <small> © 2017 [Tammy Nguyen](http://tmmydngyn.com) · [Hagura Theme](https://github.com/sharu725/hagura) for [Jekyll](https://jekyllrb.com/) </small> <br/><br/>
