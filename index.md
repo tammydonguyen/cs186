@@ -41,6 +41,9 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 - [Vitamin 1][vitamin1]
 - [Homework 2][hw2]
 
+## Week 5
+- [Sorting and Hashing][sort-hash-slides]
+
 [my-website]: http://tmmydngyn.com
 [course-website]: http://www.cs186berkeley.net/
 [spotify]: https://play.spotify.com/user/tmmydngyn
@@ -51,6 +54,7 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [sql2-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1GN11fA-Ck7z8pEPcYYVgGfRSF8MRmJWenoYD435Ueok/edit?usp=sharing
 [files-indexes-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1KC87CdUBjvktXDk9cvxPfI64zcT5PxhmiI3cCnYAauw/edit?usp=sharing
 [indexes-buffer-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1lCzrzkc3UZ14obXL4er70NsUw4jeb_FxiYuXfWp_VTE/edit?usp=sharing
+[sort-hash-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1yAvL4LxDd0spvKot3Q5U_qb7lPsweLVfcunYFvc21k4/edit?usp=sharing
 
 [sql-wkst]: https://drive.google.com/open?id=0By13EEuY1_ncdFlMQTJPX2haNTg
 [sql-wkst-sol]: https://drive.google.com/open?id=0By13EEuY1_ncampIWmlxZGQyWUE
