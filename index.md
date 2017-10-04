@@ -44,17 +44,26 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 ## Week 5
 - [Sorting and Hashing][sort-hash-slides]
 
+## Week 6
+- [Hashing, Joins][hash-joins-slides]
+- [Section midsemester survey][midterm-survey]
+- [Homework 3][hw3]
+- [Relational algebra calculator][rel-alg-calc]
+
+
 [my-website]: http://tmmydngyn.com
 [course-website]: http://www.cs186berkeley.net/
 [spotify]: https://play.spotify.com/user/tmmydngyn
 
 [anon-feedback]: https://goo.gl/forms/jdh0sAyOIID2i0DN2
+[midterm-survey]: https://drive.google.com/open?id=1DOM6i2SQcI2qCmAmKfuFt1_YtqWjyakEFAGRZmXE7q4
 
 [intro-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1o4NIBvH9AWi73VcpALa2j7aTKaEhqS6ANtup2sHun9w/edit?usp=sharing
 [sql2-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1GN11fA-Ck7z8pEPcYYVgGfRSF8MRmJWenoYD435Ueok/edit?usp=sharing
 [files-indexes-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1KC87CdUBjvktXDk9cvxPfI64zcT5PxhmiI3cCnYAauw/edit?usp=sharing
 [indexes-buffer-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1lCzrzkc3UZ14obXL4er70NsUw4jeb_FxiYuXfWp_VTE/edit?usp=sharing
 [sort-hash-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1yAvL4LxDd0spvKot3Q5U_qb7lPsweLVfcunYFvc21k4/edit?usp=sharing
+[hash-joins]: https://docs.google.com/a/berkeley.edu/presentation/d/1mGK0RC8J1ShwsR6q-t4QBcFxlxLU1-Asu022UFgVZoE/edit?usp=sharing
 
 [sql-wkst]: https://drive.google.com/open?id=0By13EEuY1_ncdFlMQTJPX2haNTg
 [sql-wkst-sol]: https://drive.google.com/open?id=0By13EEuY1_ncampIWmlxZGQyWUE
@@ -68,8 +77,10 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [hw0]: https://d1b10bmlvqabco.cloudfront.net/attach/j61p9bqidklz/hhs20p6dvpz1ev/j6qvt3fpbowf/hw0.pdf
 [hw1]: https://github.com/berkeley-cs186/course/tree/master/hw1
 [hw2]: https://github.com/berkeley-cs186/course/tree/master/hw2
+[hw3]: https://github.com/berkeley-cs186/course/tree/master/hw3
 
 [b-trees-visual]: https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
+[rel-alg-calc]: http://dbis-uibk.github.io/relax/calc.htm
 
 - - - 
 <small> © 2017 [Tammy Nguyen](http://tmmydngyn.com) · [Hagura Theme](https://github.com/sharu725/hagura) for [Jekyll](https://jekyllrb.com/) </small> <br/><br/>
