@@ -54,6 +54,16 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 - [Hash joins][hash-joins-slides]
 - [Section midsemester survey][midterm-survey]
 
+## Week 8
+- [Parallel Queries, Query Optimization][parallel-optimize-slides]
+
+## Week 9
+- [Query Optimization][optimize-slides]
+
+## Week 10
+- [ER Diagrams, Functional Dependencies][er-fd-slides]
+
+
 
 [my-website]: http://tmmydngyn.com
 [course-website]: http://www.cs186berkeley.net/
@@ -69,6 +79,9 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [sort-hash-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1yAvL4LxDd0spvKot3Q5U_qb7lPsweLVfcunYFvc21k4/edit?usp=sharing
 [hashing-joins-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1mGK0RC8J1ShwsR6q-t4QBcFxlxLU1-Asu022UFgVZoE/edit?usp=sharing
 [hash-joins-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1F23FFDWgxQ84owsS2pi8AZv3nKsNnwvLZjPKl3Jqxr4/edit?usp=sharing
+[parallel-optimize-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1EZSzWtWSzEgZ5wfQqO6AKFgwL-WaaCYjPx44CDeS07g/edit?usp=sharing
+[optimize-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1xQrannebRYyP6vzKfl1HreIz4NPQtUcldNJUX7dUczY/edit?usp=sharing
+[er-fd-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1vmrnF4-XWKZUxUL-tkYIzWl0jpxllEbQcoklJ0jvlag/edit?usp=sharing
 
 [sql-wkst]: https://drive.google.com/open?id=0By13EEuY1_ncdFlMQTJPX2haNTg
 [sql-wkst-sol]: https://drive.google.com/open?id=0By13EEuY1_ncampIWmlxZGQyWUE
