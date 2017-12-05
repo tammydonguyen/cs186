@@ -63,7 +63,11 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 ## Week 10
 - [ER Diagrams, Functional Dependencies][er-fd-slides]
 
+## Week 11
+- [Transactions, Concurrency Control][xacts-cc-slides]
 
+## Week 12
+- [Recovery][recovery-slides] 
 
 [my-website]: http://tmmydngyn.com
 [course-website]: http://www.cs186berkeley.net/
@@ -82,6 +86,8 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [parallel-optimize-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1EZSzWtWSzEgZ5wfQqO6AKFgwL-WaaCYjPx44CDeS07g/edit?usp=sharing
 [optimize-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1xQrannebRYyP6vzKfl1HreIz4NPQtUcldNJUX7dUczY/edit?usp=sharing
 [er-fd-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1vmrnF4-XWKZUxUL-tkYIzWl0jpxllEbQcoklJ0jvlag/edit?usp=sharing
+[xacts-cc-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1g5N2mNe1sy9_cvpOVMCpyd2SB9Lrjdq6--_YHhRcyXg/edit?usp=sharing
+[recovery-slides]: https://docs.google.com/a/berkeley.edu/presentation/d/1ce-cDT258Q5x_YBF6x1hh2NR1LvFNCFrebZ5L1cdEWs/edit?usp=sharing
 
 [sql-wkst]: https://drive.google.com/open?id=0By13EEuY1_ncdFlMQTJPX2haNTg
 [sql-wkst-sol]: https://drive.google.com/open?id=0By13EEuY1_ncampIWmlxZGQyWUE
