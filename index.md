@@ -12,7 +12,7 @@ This is the website for [Tammy][my-website]'s Fall 2017
 - Wed 9:00 AM - 10:00 PM @ 107 GPB
 - Tu 3:00 AM - 4:00 PM @ 103 GPB
 
-You can contact me through email (tammynguyen@berkeley.edu) or leave feedback through this [anonymous form][anon-feedback].
+You can contact me through email (tammynguyen (at) berkeley.edu) or leave feedback through this [anonymous form][anon-feedback].
 
 Click [here][spotify] for my Spotify profile, which includes playlists that I play during class. 
 
@@ -30,46 +30,46 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 
 
 ## Week 3
-- [Files, Indexes][files-indexes-slides]
+- [Files, Indexes slides][files-indexes-slides]
 - [Discussion worksheet][files-wkst] ([Solutions][files-wkst-sol])
 - [B+ trees visualization tool][b-trees-visual]
 - [Vitamin 1][vitamin1]
 - [Homework 2][hw2]
 
 ## Week 4
-- [Indexes, Buffer management][indexes-buffer-slides]
+- [Indexes, Buffer Management slides][indexes-buffer-slides]
 - [Vitamin 1][vitamin1]
 - [Homework 2][hw2]
 
 ## Week 5
-- [Sorting and Hashing][sort-hash-slides]
+- [Sorting and Hashing slides][sort-hash-slides]
 
 ## Week 6
-- [Hashing, Joins][hashing-joins-slides]
+- [Hashing, Joins slides][hashing-joins-slides]
 - [Section midsemester survey][midterm-survey]
 - [Homework 3][hw3]
 - [Relational algebra calculator][rel-alg-calc]
 
 ## Week 7
-- [Hash joins][hash-joins-slides]
+- [Hash Joins slides][hash-joins-slides]
 - [Section midsemester survey][midterm-survey]
 
 ## Week 8
-- [Parallel Queries, Query Optimization][parallel-optimize-slides]
+- [Parallel Queries, Query Optimization slides][parallel-optimize-slides]
 
 ## Week 9
-- [Query Optimization][optimize-slides]
+- [Query Optimization slides][optimize-slides]
 
 ## Week 10
-- [ER Diagrams, Functional Dependencies][er-fd-slides]
+- [ER Diagrams, Functional Dependencies slides][er-fd-slides]
 
 ## Week 11
-- [Transactions, Concurrency Control][xacts-cc-slides]
+- [Transactions, Concurrency Control slides][xacts-cc-slides]
 
 ## Week 12
-- [Recovery][recovery-slides] 
+- [Recovery slides][recovery-slides] 
 
-[my-website]: http://tmmydngyn.com
+[my-website]: http://tmmydngyn.me
 [course-website]: http://www.cs186berkeley.net/
 [spotify]: https://play.spotify.com/user/tmmydngyn
 
